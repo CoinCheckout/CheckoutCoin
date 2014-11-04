@@ -1,2 +1,6 @@
-CheckoutCoin
-============
+The CheckoutCoin vision is the creation of a complete alt-coin payments solution that integrates automated dynamic pricing. This advanced dynamic pricing engine is devised to calculate in real-time the liquidation value of an equivalent amount of the base currency (for instance US dollars or Euros). In other words, given defined base pricing in a broader currency the engine can look at the order depth and books across multiple supported exchanges and determine what the real equivalent value is in altcoin quantity. In so doing, the CheckoutCoin engine will provide the ability to smooth out the impact of volatility on pricing accuracy, by providing the capability to integrate real-time pricing into consuming shopping cart software to a degree that has not been made available to date. Building on top of that core capability, the plan for CheckoutCoin is to provide several key components over time:
+
+*1. A “gateway” or web-based service that anyone can integrate with to retrieve dynamic pricing and process payments in supported alt-coins. This will allow both payment processing as well as a pricing feed.
+*2. A reference shopping cart implementation that merchants could use off the shelf to stand up an e-commerce website utilizing the full capabilities of the CheckoutCoin gateway.
+*3. Plugins or adapters for existing COTS off-the-shelf shopping cart packages.
+*4. Wallet client integration to bring the same capability into the merchant’s brick-and-mortar operation.
